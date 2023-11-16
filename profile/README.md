@@ -1,7 +1,6 @@
-The Melm Project is a project to revive the elm client developed by the USENET
-Community Trust. Melm intends to:
+The Melm Project is a project to revive the elm email client. Melm intends to:
 * Provide proper Linux support
-* Support modern distributions and architectures
+* Support modern distributions, protocols, and architectures
 * Provide full extensibility and customization
 
 ## Support
